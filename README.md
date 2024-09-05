@@ -1,9 +1,9 @@
-CAR24
-Overview
-The Car24 Dataset is a comprehensive collection of data about used cars, including their features, pricing, and performance. 
+#CAR24
+#Overview
+#The Car24 Dataset is a comprehensive collection of data about used cars, including their features, pricing, and performance. 
 Dataset Description / META DATA: The dataset contains the following columns:
 
-name: The name or model of the car.
+#name: The name or model of the car.
 year: The manufacturing year of the car.
 selling_price: The price at which the car was sold.
 km_driven: The number of kilometers driven by the car.
